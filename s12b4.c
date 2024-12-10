@@ -10,7 +10,6 @@ int array( int sum[],int size){
     }
     return max;
 }
-
 int main(void){
     int sum[]={3,2,6,4,12,7,9,1};
     int size = sizeof(sum)/sizeof(sum[0]);

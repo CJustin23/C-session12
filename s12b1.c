@@ -10,6 +10,5 @@ int main(void){
     scanf("%d", &number2);
     sum1 = sum(number1, number2);
     printf("Tong cua %d va %d la: %d \n", number1, number2, sum1);
-    
     return 0;
 }
